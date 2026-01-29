@@ -109,7 +109,7 @@ with HandLandmarker.create_from_options(options) as landmarker:
             draw_block(img, bx, by)
 
         cv2.circle(img, cursor_pos, 10, (0, 255, 255), 2) # Cursor highlight
-        cv2.putText(img, "Air Craft v0.3: H1 Cursor, H2 Clench to Place", (20, 40), 
+        cv2.putText(img, "Air Craft v0.1: H1 Cursor, H2 Clench to Place", (20, 40), 
                     cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 0), 2)
         cv2.imshow("Air Craft", img)
 
