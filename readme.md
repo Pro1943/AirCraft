@@ -1,4 +1,4 @@
-# **AIR CRAFT v0.1** 🧱🌬️
+# **AIR CRAFT** 🧱🌬️
 
 **“Build blocks in the air using your hands — no keyboard, no mouse, just gestures.”**
 
